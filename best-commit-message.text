@@ -1,0 +1,12 @@
+
+1-commit subject must be a capitalize letters 
+    -commit most describe in global the changes
+    -commit subject not pass 50 char
+    -for clear commit subject text you commit response to that question 
+
+2-empty row between commit subject and body (commit details)
+3-describe clearly every change you made in project in list format
+    exp:
+        -add style
+        -create div header
+        -add nav menu
