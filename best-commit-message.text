@@ -1,12 +1,18 @@
 
 1-commit subject must be a capitalize letters 
+    -commit must start with  verb exp add ,create
     -commit most describe in global the changes
     -commit subject not pass 50 char
     -for clear commit subject text you commit response to that question 
-
+        ->If applied,this commit will ...
 2-empty row between commit subject and body (commit details)
 3-describe clearly every change you made in project in list format
     exp:
         -add style
         -create div header
         -add nav menu
+4-adding reference to the feature /bug you are implementing/fixing if applied
+    -link the commit to issuses or todo task
+    -exp ref #issuses number / exp: ref #1
+        you can close the issues 
+    -exp close #1 
